@@ -10,15 +10,15 @@
  * please view the LICENSE file that was distributed with this source code.
  */
 
-namespace WellCommerce\Bundle\ContactBundle\Manager\Front;
+namespace WellCommerce\Bundle\ContactBundle\Manager;
 
-use WellCommerce\Bundle\CoreBundle\Manager\Front\AbstractFrontManager;
+use WellCommerce\Bundle\CoreBundle\Manager\AbstractManager;
 
 /**
  * Class ContactManager
  *
  * @author  Adam Piotrowski <adam@wellcommerce.org>
  */
-class ContactManager extends AbstractFrontManager
+class ContactManager extends AbstractManager
 {
 }
