@@ -15,10 +15,10 @@ namespace WellCommerce\Bundle\ContactBundle\Manager;
 use WellCommerce\Bundle\CoreBundle\Manager\AbstractManager;
 
 /**
- * Class ContactManager
+ * Class ContactTicketManager
  *
  * @author  Adam Piotrowski <adam@wellcommerce.org>
  */
-final class ContactManager extends AbstractManager
+final class ContactTicketManager extends AbstractManager
 {
 }
